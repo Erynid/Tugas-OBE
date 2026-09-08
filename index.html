@@ -27,7 +27,60 @@
   </header>
 
   <main id="main-content">
-    <!-- Konten utama akan ditambahkan di commit berikutnya -->
+
+    <!-- Section 1: Papan Kanban Utama -->
+    <section id="kanban-board">
+      <h2>Papan Kanban Tugas</h2>
+      <p>Tarik dan lepas kartu tugas untuk memperbarui status pengerjaan.</p>
+
+      <div class="kanban-columns">
+        <!-- Kolom 1 -->
+        <article class="column-todo">
+          <h3>To Do</h3>
+          <p>Tugas yang belum dikerjakan, diurutkan berdasarkan deadline terdekat.</p>
+          <div class="task-card" tabindex="0">
+            <h4>Analisis Sistem Jaringan</h4>
+            <p>Mata Kuliah: Jaringan Komputer</p>
+            <p>Deadline: 10 Sep 2026, 23:59</p>
+            <p>Status Warna: Merah (Kritis)</p>
+          </div>
+        </article>
+
+        <!-- Kolom 2 -->
+        <article class="column-inprogress">
+          <h3>In Progress</h3>
+          <p>Tugas yang sedang dalam tahap pengerjaan.</p>
+        </article>
+
+        <!-- Kolom 3 -->
+        <article class="column-done">
+          <h3>Done</h3>
+          <p>Tugas yang telah selesai dan siap dikumpulkan.</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- Section 3: Pengaturan Push Notification -->
+    <section id="pengaturan">
+      <h2>Pengaturan Notifikasi</h2>
+      <article>
+        <h3>Izin Web Push Notification</h3>
+        <p>Aktifkan notifikasi perangkat agar sistem dapat mengirimkan pengingat proaktif sebelum waktu habis.</p>
+        <figure>
+          <img src="ilustrasi-notif.png"
+            alt="Ilustrasi layar browser yang memunculkan pop-up izin notifikasi (Opt-in) di pojok kiri atas">
+          <figcaption>Contoh prompt izin notifikasi browser.</figcaption>
+        </figure>
+        <p>
+          Pelajari standar sistem ini pada
+          <a href="https://developer.mozilla.org/en-US/docs/Web/API/Push_API" target="_blank" rel="noopener">
+            Dokumentasi Web Push API MDN
+          </a>.
+        </p>
+        <button type="button" id="btn-izin-notif">Berikan Izin Notifikasi</button>
+      </article>
+    </section>
+
   </main>
 
   <footer>
