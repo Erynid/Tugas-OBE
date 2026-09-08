@@ -1,1 +1,42 @@
-‣牐歡楴畫⁭敐牭杯慲慭⁮敗⁢伨䕂ഩഊ⌊‣摉湥楴慴⁳慍慴䬠汵慩൨ⴊ⨠䴪瑡⁡畋楬桡⨪›牐歡楴畫⁭敐牭杯慲慭⁮敗ൢⴊ⨠匪浥獥整⩲㨪㔠਍‭⨪慎慭䴠桡獡獩慷⨪›畍慨浭摡䐠慺楫⁲穄歡慷൮ⴊ⨠个䵐⨪›㐲〴〳〴㔱਍਍⌣䐠獥牫灩楳匠湩歧瑡䠠污浡湡਍潐瑲污䬠浯湵瑩獡倠獥獩物愠慤慬⁨敷⁢慰敧猠慴楴⁳慹杮搠物湡慣杮猠扥条楡瀠獵瑡椠普牯慭楳搠杩瑩污搠湡氠祡湡湡唠䭍⁍楤欠睡獡湡瀠獥獩物‮慈慬慭⁮湩⁩敭祮橡歩湡瀠潲楦⁬楷慬慹ⱨ瀠潲牧浡瀠浥敢摲祡慡⁮步湯浯⁩慤⁮慬慹慮⁮獵桡⁡潬慫ⱬ椠瑮来慲楳洠摥慩瘠獩慵⁬敳瑮慲洠牡瑩浩‬敳瑲⁡潦浲汵物椠瑮牥歡楴⁦湵畴⁫数杮摡慵⁮慤⁮潫瑮歡洠獡慹慲慫⹴਍਍⌣吠步潮潬楧礠湡⁧楄畧慮慫൮ⴊ⨠䠪䵔㕌⨪⠠瑓畲瑫牵匠浥湡楴⁫…歁敳楳楢楬慴⥳਍‭⨪敗⁢敓癲牥⨪›灁捡敨⠠楶⁡慌慲潧⁮⤵਍‭⨪䡐⩐㨪倠偈㠠㐮਍‭⨪敖獲潩⁮潃瑮潲⩬㨪䜠瑩☠䜠瑩畈ൢഊ⌊‣楆畴⁲慹杮匠摵桡匠汥獥楡਍‭硛⁝⨪瑓畲瑫牵䠠䵔㕌匠浥湡楴⩫㨪倠湥杧湵慡⁮慴⁧敳慭瑮歩洠摯牥⁮怨敨摡牥Ⱡ怠慮恶‬浠楡恮‬獠捥楴湯Ⱡ怠牡楴汣恥‬晠杩牵恥‬晠潯整恲⸩਍‭硛⁝⨪楆畴⁲歁敳楳楢楬慴⁳敗⩢㨪倠湥牥灡湡猠楫⁰楬歮⠠⍠慭湩挭湯整瑮⥠‬瑡楲畢⁴慠楲ⵡ慬敢恬‬瑡楲畢⁴慠瑬⁠敤歳楲瑰晩瀠摡⁡慧扭牡‬敳瑲⁡慬敢⁬潦浲汵物礠湡⁧整桲扵湵⁧敤杮湡䤠⁄汥浥湥മⴊ嬠嵸⨠倪潲楦⁬態慷慳⁮敐楳楳⩲㨪倠湥慹楪湡椠普牯慭楳椠瑮来慲楳攠潫潮業洠獡慹慲慫⁴慫慷慳⁮数楳楳⹲਍‭硛⁝⨪湉整牧獡⁩敍楤⁡楖畳污⨪›敐杮畧慮湡攠敬敭⁮㱠楦畧敲怾搠湡怠昼杩慣瑰潩㹮⁠湵畴⁫敭慮灭汩慫⁮獡瑥朠浡慢⁲潬慫⁬怨浩条獥椯慭獧敤⹳灪恧⸩਍‭硛⁝⨪湉潦浲獡⁩慌慹慮⁮…䵕䵋⨪›牁楴敫⁬楤楧慴楬慳楳渠汥祡湡琠慲楤楳湯污搠湡瀠浥敢摲祡慡⁮牰摯歵漠慬慨⁮数楳楳⹲਍‭硛⁝⨪潆浲汵物䬠湯慴⁫…敐杮摡慵⩮㨪䤠灮瑵映牯畭楬⁲慮慭‬浥楡ⱬ瀠獥湡‬慤⁮潴扭汯欠物浩搠湥慧⁮慶楬慤楳䠠䵔⁌牠煥極敲恤മⴊ嬠嵸⨠䰪杯倠湥杧湵慡⁮䥁⨪›潄畫敭瑮獡⁩楲慷慹⁴数杮畧慮湡䄠⁉慤⁮敶楲楦慫楳洠湡楤楲瀠摡⁡䅠彉单䝁彅佌⹇摭⹠਍਍⌣䌠牡⁡敍橮污湡慫⁮敍慬畬⁩慌慲潧⁮വㄊ‮⨪慊慬歮湡匠牥楶散䰠牡条湯㔠⨪ഺ †‭畂慫愠汰歩獡⁩⨪慌慲潧⁮⨵⸪਍†ⴠ䬠楬⁫潴扭汯⨠匪慴瑲䄠汬⨪甠瑮歵洠湥慧瑫晩慫⁮敷⁢敳癲牥䄠慰档⹥਍⸲⨠䰪歯獡⁩潆摬牥倠潲敹⩫㨪਍†ⴠ倠獡楴慫⁮楤敲瑫牯⁩牰祯步琠牥楳灭湡搠⁩慤慬⁭潦摬牥怠睷恷䰠牡条湯ഺ ††䍠尺慬慲潧屮睷屷数睭扥漭敢ൠ㌊‮⨪歁敳⁳楶⁡敗⁢牂睯敳⩲㨪਍†ⴠ䈠歵⁡敷⁢牢睯敳⁲䌨牨浯ⱥ䘠物晥硯‬摅敧‬汤⹬⸩਍†ⴠ䄠獫獥猠污桡猠瑡⁵污浡瑡唠䱒戠牥歩瑵ഺ ††‭⨪剕⁌潐瑲䘯汯敤⩲㨪嬠瑨灴⼺氯捯污潨瑳瀯浥敷ⵢ扯⽥⡝瑨灴⼺氯捯污潨瑳瀯浥敷ⵢ扯⽥ഩ ††‭⨪剕⁌楖瑲慵䡬獯⁴慌慲潧⩮㨪嬠瑨灴⼺瀯浥敷ⵢ扯⹥整瑳⡝瑨灴⼺瀯浥敷ⵢ扯⹥整瑳ഩഊ⌊‣慃慴慴൮ⴊ䘠汩⁥湥牴⁩瑵浡⁡牰祯步愠慤慬⁨楛摮硥栮浴嵬昨汩㩥⼯振⼺慬慲潧⽮睷⽷数睭扥漭敢椯摮硥栮浴⥬മⴊ倠獡楴慫⁮楦敬朠浡慢⁲楠慭獧敤⹳灪恧戠牥摡⁡楤搠污浡搠物步潴楲怠浩条獥怯愠慧⁲敭楤⁡慰慤栠污浡湡瀠潲楦⁬慤慰⁴楤敲摮牥搠湥慧⁮慢歩
+# Praktikum Pemrograman Web (OBE)
+
+## Identitas Mata Kuliah
+- **Mata Kuliah**: Praktikum Pemrograman Web
+- **Semester**: 5
+- **Nama Mahasiswa**: Muhammad Dzakir Dzakwan
+- **NPM**: 2440304015
+
+## Deskripsi Singkat Halaman
+Portal Komunitas Pesisir adalah web page statis yang dirancang sebagai pusat informasi digital dan layanan UMKM di kawasan pesisir. Halaman ini menyajikan profil wilayah, program pemberdayaan ekonomi dan layanan usaha lokal, integrasi media visual sentra maritim, serta formulir interaktif untuk pengaduan dan kontak masyarakat.
+
+## Teknologi yang Digunakan
+- **HTML5** (Struktur Semantik & Aksesibilitas)
+- **Web Server**: Apache (via Laragon 5)
+- **PHP**: PHP 8.4
+- **Version Control**: Git & GitHub
+
+## Fitur yang Sudah Selesai
+- [x] **Struktur HTML5 Semantik**: Penggunaan tag semantik modern (`<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<figure>`, `<footer>`).
+- [x] **Fitur Aksesibilitas Web**: Penerapan skip link (`#main-content`), atribut `aria-label`, atribut `alt` deskriptif pada gambar, serta label formulir yang terhubung dengan ID elemen.
+- [x] **Profil Kawasan Pesisir**: Penyajian informasi integrasi ekonomi masyarakat kawasan pesisir.
+- [x] **Integrasi Media Visual**: Penggunaan elemen `<figure>` dan `<figcaption>` untuk menampilkan aset gambar lokal (`images/imagesdes.jpg`).
+- [x] **Informasi Layanan & UMKM**: Artikel digitalisasi nelayan tradisional dan pemberdayaan produk olahan pesisir.
+- [x] **Formulir Kontak & Pengaduan**: Input formulir nama, email, pesan, dan tombol kirim dengan validasi HTML `required`.
+- [x] **Log Penggunaan AI**: Dokumentasi riwayat penggunaan AI dan verifikasi mandiri pada `AI_USAGE_LOG.md`.
+
+## Cara Menjalankan Melalui Laragon
+1. **Jalankan Service Laragon 5**:
+   - Buka aplikasi **Laragon 5**.
+   - Klik tombol **Start All** untuk mengaktifkan web server Apache.
+2. **Lokasi Folder Proyek**:
+   - Pastikan direktori proyek tersimpan di dalam folder `www` Laragon:
+     `C:\laragon\www\pemweb-obe`
+3. **Akses via Web Browser**:
+   - Buka web browser (Chrome, Firefox, Edge, dll.).
+   - Akses salah satu alamat URL berikut:
+     - **URL Port/Folder**: [http://localhost/pemweb-obe/](http://localhost/pemweb-obe/)
+     - **URL VirtualHost Laragon**: [http://pemweb-obe.test](http://pemweb-obe.test)
+
+## Catatan
+- File entri utama proyek adalah [index.html](file:///c:/laragon/www/pemweb-obe/index.html).
+- Pastikan file gambar `imagesdes.jpg` berada di dalam direktori `images/` agar media pada halaman profil dapat dirender dengan baik.
